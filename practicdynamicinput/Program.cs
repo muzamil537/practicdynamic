@@ -3,16 +3,9 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("enter your number ");
-         int num = Convert.ToInt32(Console.ReadLine());
-
-        Console.WriteLine("enter your number ");
-        int num1 = Convert.ToInt32(Console.ReadLine());
 
 
-        int result = num + num1;
-
-        Console.WriteLine("The sume of 2 numbers :" + result);
+        //what are yout saying
     }
 }
 
@@ -22,6 +15,31 @@ class Program
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Console.WriteLine("enter your number ");
+//int num = Convert.ToInt32(Console.ReadLine());
+
+//Console.WriteLine("enter your number ");
+//int num1 = Convert.ToInt32(Console.ReadLine());
+
+
+//int result = num + num1;
+
+//Console.WriteLine("The sume of 2 numbers :" + result);
 
 
 
